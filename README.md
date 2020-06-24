@@ -1,2 +1,4 @@
 # gsras.ru
-Парсер землетрясений и построение карты на jupyter
+Парсер землетрясений gsras.ru
+
+Autor: Irgit Valery https://github.com/tarbagan
